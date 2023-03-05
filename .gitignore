@@ -190,3 +190,7 @@ poetry.toml
 # Go workspace file
 go.work
 
+##############
+### CUSTOM ###
+##############
+.envrc
